@@ -53,8 +53,8 @@
 - [place kitten](https://placekitten.com/) a [The Cat API](http://thecatapi.com/) – pro vkládání obrázků koček a koťátek
   - Vadí vám koťátka? Zkuste [place bear](https://placebear.com/), [bacon mockup](http://baconmockup.com/) nebo [Fill Murray](http://www.fillmurray.com/)
 - Barvy
- - [přehled pojmenovaných barev](http://colours.neilorangepeel.com/)
- - [výběr náhodné barvy](http://www.colors.commutercreative.com/)
+  - [přehled pojmenovaných barev](http://colours.neilorangepeel.com/)
+  - [výběr náhodné barvy](http://www.colors.commutercreative.com/)
 - [Userstyles.org](https://userstyles.org/)
 
 ## Další nástroje pro modifikaci webu
