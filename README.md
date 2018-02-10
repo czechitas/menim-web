@@ -3,8 +3,8 @@
 ## Prezentace
 
 1. [Úvod](https://docs.google.com/presentation/d/1oNAnZxBrXLHBuyenZux0EP34zfdVXQDslHldXoooBm4/edit?usp=sharing)
-2. [Developer Tools](https://docs.google.com/presentation/d/1ov4n1gg0o9iRT0M8FSfpjvW1aoaAGBfmaHOOETZaIfQ/edit?usp=sharing)
-3. [Uživatelské styly](https://docs.google.com/presentation/d/1QWcWG1kViw_bHIV8paaxof-W2PbgFGyTTkLawxL93J8/edit?usp=sharing)
+2. [Developer Tools](https://docs.google.com/presentation/d/1QWcWG1kViw_bHIV8paaxof-W2PbgFGyTTkLawxL93J8/edit?usp=sharing)
+3. [Uživatelské styly](https://docs.google.com/presentation/d/1ov4n1gg0o9iRT0M8FSfpjvW1aoaAGBfmaHOOETZaIfQ/edit?usp=sharing)
 
 ## Úkoly
 
