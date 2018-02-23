@@ -73,8 +73,8 @@
 - [Lyrics Here](https://chrome.google.com/webstore/detail/lyrics-here-by-rob-w/lifkpflabnobkgbjpcmocmgcajlecbcp)
 - [YouTube Plus / Particle](https://github.com/ParticleCore/Particle) pro [Chrome](https://chrome.google.com/webstore/detail/youtube-plus/nkdalpbojfdilmiboaiedicdbigdabpb) a [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-plus/)
 - [Ponyhoof](http://ponyhoof.little.my/)
-- [Hide Facebook News Feed](https://greasyfork.org/en/scripts/4055-hide-facebook-news-feed) – _Replaces useless Facebook feed with useful kittens._ Vyžaduje [Greasemonkey](greasemonkey) nebo [Tampermonkey](tampermonkey)
-- [GoOut: Add Event to Google Calendar](https://greasyfork.org/en/scripts/27431-goout-add-event-to-google-calendar) – vyžaduje [Greasemonkey](greasemonkey) nebo [Tampermonkey](tampermonkey)
+- [Hide Facebook News Feed](https://greasyfork.org/en/scripts/4055-hide-facebook-news-feed) – _Replaces useless Facebook feed with useful kittens._ Vyžaduje [Greasemonkey][greasemonkey] nebo [Tampermonkey][tampermonkey]
+- [GoOut: Add Event to Google Calendar](https://greasyfork.org/en/scripts/27431-goout-add-event-to-google-calendar) – vyžaduje [Greasemonkey][greasemonkey] nebo [Tampermonkey][tampermonkey]
 
 [greasemonkey]: https://addons.mozilla.org/cs/firefox/addon/greasemonkey/
-[tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+[tampermonkey]: https://tampermonkey.net/
